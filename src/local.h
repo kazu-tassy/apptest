@@ -4,4 +4,6 @@
 int add(int, int);
 int add2(int , int, int);
 
+int sub(int, int);
+
 #endif
